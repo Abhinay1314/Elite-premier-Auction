@@ -5,13 +5,9 @@ Created by:
 **Authors and Contributors**
 | No  |      Name      |                  Email                   |     Role      |
 | :-: | :------------: | :--------------------------------------: | :-----------: |
-|  1 | Emilly Tiampati  | emilly.tiampati@student.moringaschool.com |   Scrum Master  & Developer    |
-|  2  | Alois Mbutura  | 	alois.mbutura@student.moringaschool.com |   Developer      |
-|  3  | Daniel Njuguna  |daniel.njuguna@student.moringaschool.com |   Developer      |
-|  4  | Randy Cherutich  | randy.cherutich@student.moringaschool.com |   Developer        |
-|  5  | Maryann Njuguna  | maryann.njuguna@student.moringaschool.com |   Developer       |
-|  6  | Kenny Saruni  | kenny.saruni@student.moringaschool.com |   Developer       |
-
+|  1 | Abhinay datta  | abhinaydatta2004@gmail.com            |      Developer    |
+|  2  | Shivamani  | 	shivamanialwala@gmail.com                |   Developer      |
+|  3  | praneeth varma  |praneethvarma@gmail.com                |   Developer      |
 ---
 ## Description
 The repository contains the front-end code for a bidding system web application built using ReactJS . The user interface is designed to provide a seamless and intuitive experience for both buyers and sellers, allowing buyers to easily browse products, place bids, and manage their bids. It includes all the necessary code and documentation.
@@ -110,7 +106,7 @@ Back end
   title="Seller's Dashbord">
 
   ### Contact
-  [See contacts](https://github.com/sereyatiampati)
+  [See contacts](https://github.com/Abhinay1314/Elite-premier-Auction)
 
   Copyright © 2023. All rights reserved.
 
